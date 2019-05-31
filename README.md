@@ -1,7 +1,7 @@
 The scripts for each case lie in separate sub folders:
-Significant overlap - significant.
-Mild overlap - mild.
-Same subsumed by Not Same - sub.
+* Significant overlap - significant.
+* Mild overlap - mild.
+* Same subsumed by Not Same - sub.
 
 Execute both script.py and scriptv2.py inorder to generate results for all parameters.
 Results will be stored in 'new results' and 'large' folders.
